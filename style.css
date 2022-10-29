@@ -1,0 +1,195 @@
+* {
+    margin: 0%;
+}
+
+body{ 
+    text-align: center;
+    background-color:gray;
+    
+}
+
+nav {
+    text-align: right;
+}
+
+
+nav > a {
+    padding: 0 0.5rem;
+    color: black;
+  }
+
+
+
+
+
+
+header {
+    text-align: left;
+    background-color: aqua;
+    color: black;
+    padding: 1rem;
+    font-variant: small-caps;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.main {
+    padding: rem;
+}
+
+label {
+    font-size:medium;       
+    display:inline-block;
+    padding: 1rem;
+    margin: auto;
+    
+}
+
+h1{
+    font-weight:500;
+    font-size: 6vh;
+    padding: 2rem;
+    color: aqua
+}
+
+label {
+    font-size: medium;
+    display: inline-block;
+    padding: 1rem;
+    margin: auto;
+}
+
+p{
+    font-size: larger;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-display: solid black;
+}
+
+
+.angle-input{
+    width: 256px;
+    height: 5vh;
+    margin: auto;
+    display: block;
+    box-sizing: border-box;
+    cursor: text;
+    border-radius: .5rem;
+    border: solid aqua;;
+}
+
+
+#is-traingle-btn{
+    font-weight:bolder;
+    color:black;
+    box-sizing: border-box;
+    margin: 2rem;
+    height: 4vh;
+    width : 5rem;
+    background-color:aqua ;
+    border-radius: .5rem;
+}
+
+
+#output {
+    font-size:x-large;
+    padding: 1rem;
+    color: aqua;
+
+}
+
+#submit-answer-btn{
+    font-weight:bolder;
+    color:black;
+    box-sizing: border-box;
+    margin-top: 1rem;
+    height: 5vh;
+    width : 8rem;
+    background-color:aqua ;
+    border-radius: .5rem;
+}
+
+
+.side-input{
+    width: 256px;
+    height: 5vh;
+    margin: auto;
+    display: block;
+    box-sizing: border-box;
+    cursor: text;
+    border-radius: .5rem;
+    border: solid aqua;
+
+}
+
+
+#hypotenuse-btn{
+    font-weight:bolder;
+    color:black;
+    box-sizing: border-box;
+    margin: 2rem;
+    height: 5vh;
+    width : 8rem;
+    background-color:aqua ;
+    border-radius: .5rem;
+}
+
+
+.input-label p {
+    font-size: larger;
+    margin: 0.5rem;
+}
+
+
+.btn-check {
+    background-color: aqua;
+    border: none;
+    color: black;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: black;
+    margin: 1rem auto;
+    display: block;
+}
+
+
+.input-label p{
+    padding: 0.7rem 1rem;
+    margin: 1rem auto;
+    display: block;
+    text-align: center;
+
+}
+
+.input-label {
+    font-size: larger;
+    color: aqua;
+    width: 256px;
+    padding: 0;
+    
+} 
+
+.input-text {
+    font-size: 14px;
+    padding:1rem;
+    margin: 1rem;
+    border-color: aqua;
+    border-radius: 0.5rem;
+    width: 70%;
+    max-width: 258px;
+
+   
+  
+
+
+
